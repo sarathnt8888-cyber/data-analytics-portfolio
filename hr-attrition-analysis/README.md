@@ -21,7 +21,7 @@ Recommendation: HR should prioritize retention efforts in high-attrition roles a
 
 
 
-![Dashboard Overview](dashboard-overview.png)
+![Dashboard Overview](dashboard.png)
 
 
 
