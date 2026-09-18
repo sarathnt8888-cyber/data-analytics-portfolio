@@ -14,7 +14,7 @@ An end-to-end churn and revenue-risk analysis pipeline, identifying which custom
 
 
 
-![Customer Churn Dashboard](dashboard-overview.png)
+![Customer Churn Dashboard](dashboard.png)
 
 
 
