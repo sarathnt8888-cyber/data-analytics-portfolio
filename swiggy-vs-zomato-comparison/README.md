@@ -17,7 +17,7 @@ An end-to-end analysis comparing Swiggy and Zomato platform performance across I
 
 
 
-![Swiggy vs Zomato Dashboard](dashboard-overview.png)
+![Swiggy vs Zomato Dashboard](dashboard.png)
 
 
 
