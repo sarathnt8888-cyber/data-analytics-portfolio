@@ -21,3 +21,18 @@ Key finding: 26.58% overall churn rate, with $139.13K in Monthly Recurring Reven
 
 ---
 *Each project folder includes the full dataset, code/queries, dashboard file, a README with detailed findings, and dashboard screenshots.*
+
+## 4. Online Shopping UX & Conversion Analysis
+
+Analyzed **12,205 shopping sessions** using **Python, SQL, and Power BI**
+to explore purchase conversion, visitor behaviour, and UX opportunities.
+
+- Cleaned and explored data using pandas, including visitor and engagement segmentation.
+- Used SQL to compare conversion rates and browsing behaviour.
+- Built an interactive Power BI dashboard with KPI cards, visitor and traffic comparisons, and filters.
+- Identified **15.63% overall conversion** and an approximately **10.8 percentage-point conversion gap** between new and returning visitors.
+- Proposed a recently viewed products UX test for returning visitors.
+
+**Tools:** Python · pandas · SQL · Power BI · DAX
+
+[View Project](./online-shopping-ux-analysis)
