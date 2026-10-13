@@ -4,7 +4,7 @@ Analyzed online shopping behaviour using Python, SQL, and Power BI
 to identify conversion patterns and propose a UX improvement.
 
 ## Dashboard
-![Shopping UX dashboard](shopping-ux-dashboard.png)
+![Shopping UX dashboard](Shopping%20UX%20dashboard.png)
 
 ## Business Questions
 - How does purchase conversion differ by visitor type?
