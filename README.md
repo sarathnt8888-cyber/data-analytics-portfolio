@@ -36,3 +36,18 @@ to explore purchase conversion, visitor behaviour, and UX opportunities.
 **Tools:** Python · pandas · SQL · Power BI · DAX
 
 [View Project](./online-shopping-ux-analysis)
+
+### 5. Retail Sales & Profitability Analysis
+
+Analyzed retail sales data to evaluate sales performance, profitability, regional trends, category performance, and the impact of discounts on profit.
+
+Tools: Excel, MySQL, Power BI
+
+Key Highlights:
+- Analyzed $2.3M in sales and $286.4K in profit with a 12.47% overall profit margin.
+- Compared sales and profitability across categories and regions.
+- Identified Furniture as a high-sales but low-profit category.
+- Analyzed the relationship between discount levels and profitability.
+- Built an interactive Power BI dashboard with Region and Category slicers.
+
+[View Project](Retail_sales_profitability_analysis/)
